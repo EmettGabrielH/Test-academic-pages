@@ -22,10 +22,10 @@ repository               : "emettgabrielh/emettgabrielh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Emett Haddad"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "France"
   employer         : "ENS Paris Saclay"
   uri              : # URL
   email            : "emett.haddad@ens-paris-saclay.fr" 
