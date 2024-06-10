@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page [Academic Pages template](https://github.com/academicpages/academicpages.github.io).
+This is the front page [Github_Emett](https://github.com/emettgabrielh).
 
 ======
+
 Test
+
 ------
 TEST
 ------
