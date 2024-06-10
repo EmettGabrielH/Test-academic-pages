@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Page"
+title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Emett Haddad"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : emett-h
+  linkedin         : emett-h-a33b07288
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
