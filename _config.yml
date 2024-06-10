@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal website"
+title                    : "Emett Haddad"
 title_separator          : "-"
 name                     : &name "Emett Haddad"
 description              : &description "personal description"
