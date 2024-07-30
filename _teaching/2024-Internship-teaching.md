@@ -3,7 +3,7 @@ title: "Internship"
 collection: teaching
 type: #
 permalink: /teaching/2024-Internship-teaching
-venue: "Preparatory SchoolLes, Les Lazaristes" 
+venue: "Preparatory School, Les Lazaristes" 
 date: 2024-06-03
 location: "Lyon, France"
 ---
