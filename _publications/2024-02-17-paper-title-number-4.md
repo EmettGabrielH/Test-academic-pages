@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Internship report - Double Descent"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/Rapport_Double_Descente_Emett_Haddad
+excerpt: #
+date: 2024-06-28
+venue: 'Github'
+paperurl: 'https://github.com/EmettGabrielH/Double-descent---Emett-Haddad/blob/main/Rapport_Double_Descente_Emett_Haddad.pdf'
+citation: 'Haddad Emett, Double Descente (2024).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Report produced in the context of a first-year ENS internship at the Borelli Center on the study of the Double Descent phenomenon in machine learning (study of the linear case and gradient descent).
