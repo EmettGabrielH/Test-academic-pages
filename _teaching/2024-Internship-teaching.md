@@ -8,4 +8,4 @@ date: 2024-06-03
 location: "Lyon, France"
 ---
 
-One-week internship in math sup, in the MPSI 1 class at the Lazaristes. 
+One-week internship in math sup, in the MPSI class at the Lazaristes. 
