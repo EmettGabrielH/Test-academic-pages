@@ -8,11 +8,3 @@ redirect_from:
 ---
 
 This is the front page [Github_Emett](https://github.com/emettgabrielh).
-
-======
-
-Test
-
-------
-TEST
-------
